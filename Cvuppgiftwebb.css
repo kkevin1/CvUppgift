@@ -1,0 +1,23 @@
+#kantarell{
+  float: left;
+width: 10vw;
+height: 50px;
+background: darkblue;
+}
+#Contacts{
+width: 10vw;
+height: 200px;
+background: lightblue;
+}
+#Skills{
+ float: left;
+width: 10vw;
+height: 200px;
+background: lightblue;
+}
+#Summary{
+float: right;
+width: 40vw;
+height: 20vh;
+background: grey;
+}
